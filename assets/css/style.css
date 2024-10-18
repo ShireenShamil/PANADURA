@@ -723,16 +723,7 @@ form button.btn-primary:hover {
   background-color: white;
 }
 
-/*-----------------------------------
-    1 - Clients
-------------------------------------*/
-.clients {
-  padding: 70px 0;
-}
 
-.clients .swiper-wrapper {
-  text-align: center;
-}
 
 /*-----------------------------------
     1 - CTA 2
